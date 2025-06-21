@@ -1,11 +1,16 @@
 # 🌍 Complex Systems Analytics & Ethics AI (CSAEAI)
+
 <p align="center">
-  <img src="assets/logo_csaeai.jpg" alt="CSAEAI Logo" width="100" style="margin-bottom: 10px;" />
+  <img src="assets/logo_csaeai.png" alt="CSAEAI Logo" width="100" style="margin-bottom: 10px;" />
   <br />
   <img src="assets/banner.png" alt="CSAEAI Banner" width="600" />
 </p>
 
-[![License: CSAEAI Custom License](https://img.shields.io/badge/license-CSAEAI-blue.svg)](LICENSE.md)
+<p align="center">
+  <a href="LICENSE.md">
+    <img src="https://img.shields.io/badge/license-CSAEAI-blue.svg" alt="CSAEAI License Badge" />
+  </a>
+</p>
 
 > **Global platform for ethical AI auditing, algorithmic transparency, and human-centered innovation.**
 
