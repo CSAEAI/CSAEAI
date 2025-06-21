@@ -1,4 +1,7 @@
 # 🌍 Complex Systems Analytics & Ethics AI (CSAEAI)
+<p align="center">
+  <img src="assets/banner.png" alt="CSAEAI Banner" />
+</p>
 
 > **Global platform for ethical AI auditing, algorithmic transparency, and human-centered innovation.**
 
