@@ -1,7 +1,11 @@
 # 🌍 Complex Systems Analytics & Ethics AI (CSAEAI)
 
-<p align="center">
+<p align="left">
   <img src="assets/logo_csaeai.jpg" alt="CSAEAI Logo" width="70" style="border-radius: 50%; margin-bottom: 10px;" />
+  <br />
+</p>
+
+<p align="center">
   <br />
   <img src="assets/banner.png" alt="CSAEAI Banner" width="600" style="border-radius: 30px;" />
 </p>
