@@ -2,7 +2,7 @@
 
 > **Global platform for ethical AI auditing, algorithmic transparency, and human-centered innovation.**
 
-[![CSAEAI Logo](assets/logo_csaeai.png)](https://www.csanalyticsethicsai.eu)
+[![CSAEAI Logo](assets/logo_csaeai.jpg)](https://www.csanalyticsethicsai.eu)
 
 
 ---
